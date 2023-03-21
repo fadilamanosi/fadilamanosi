@@ -1,4 +1,4 @@
-# <img src="https://imgur.com/C7PX4kM.gif" height="30px" width="30px"> Hello, I'm Mars🪐
+# <img src="https://imgur.com/C7PX4kM.gif" height="30px" width="30px"> Hello, I'm Fadil amanosi🪐
 
 I'm a Software Developer. I'm passionate about technologies and love to learn new things.
 
@@ -10,10 +10,10 @@ I'm a Software Developer. I'm passionate about technologies and love to learn ne
 Here are a few things I've picked up along my learning journey.
 
 - Programming languages : <br />
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![CSS](https://img.icons8.com/ios-filled/50/4a90e2/jquery.png)
+
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 
 - Frontend : <br />
