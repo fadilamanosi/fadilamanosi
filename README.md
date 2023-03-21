@@ -14,9 +14,6 @@ Here are a few things I've picked up along my learning journey.
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![Jquery](https://img.shields.io/badge/-PHP-474ABA?style=flat&logo=PHP&logoColor=1572B6)
 
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-
 - Frontend : <br />
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=DD0031)
