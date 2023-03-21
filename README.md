@@ -12,10 +12,8 @@ Here are a few things I've picked up along my learning journey.
 - Programming languages : <br />
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![Jquery](https://img.icons8.com/ios-filled/50/4a90e2/jquery.png?style=flat&logo=CSS3&logoColor=1572B6)
 
-<a href="#"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/jquery.png"> </a>
-    <a href="#"> <img src="https://img.shields.io/badge/-PHP-474ABA?style=for-the-badge&labelColor=black&logo=php&logoColor=474ABA"> </a>
-    <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-Laravel-F05340?style=for-the-badge&labelColor=black&logo=laravel&logoColor=F05340"> </a>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 
