@@ -1,16 +1,14 @@
 <template>
-    <div class="px-8 bg-[#FFFFFF]  ">
-        <div class="flex flex-col gap-10 h-full  lg:py-16 py-8">
+    <div class="px-8 bg-[#FFFFFF] py-16">
+        <div class="flex flex-col gap-10 lg:h-full  ">
             <div class="text-[#48080D]  text-start">
                 <h1 class=" lg:text-[4.067em] text-[50px] font-bold ">My Skills</h1>
-                <span>
-                    There are many variations of passages of lorem ipsum available,<br> but the majority have suffered
-                    alteration in
-                    some form
+                <span class="text-[20px]">
+                    I'm eager to pick up new skills and pursue excellence in my profession as a developer.
                 </span>
             </div>
 
-            <div class="grid lg:grid-cols-4 gap-8 h-full lg:place-content-center ">
+            <div class="grid lg:grid-cols-4 gap-8 lg:h-full lg:place-content-center ">
                 <div class="relative bg-[#F5E9E6]  overflow-hidden ">
                     <div
                         class="   flex flex-col justify-between cursor-pointer overflow-hidden gap-[2em]  z-50 top-0 h-full p-4">

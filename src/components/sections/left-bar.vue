@@ -1,5 +1,5 @@
 <template>
-    <div class=" bg-[#bb7c65]  lg:w-[20%]  lg:h-full  px-4  grid  relative grid-rows-12 gap-4 lg:pt-8  pt-4 lg:pb-0 pb-4 ">
+    <div class=" bg-[#bb7c65] lg:w-[20%]  lg:h-full  px-4  grid  relative grid-rows-12 gap-4 lg:pt-8  pt-6 lg:pb-0 pb-6 ">
 
         <div class=" row-span-1 ">
             <hambuger @click="sidebar = true"  :class="'rotate '  + (sidebar ? 'roll' : '')"></hambuger>

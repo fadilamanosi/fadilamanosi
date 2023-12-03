@@ -3,11 +3,11 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --port 8080 --host test.co",
     "build": "vite build",
     "preview": "vite preview",
     "start": "NODE_ENV=development ./node_modules/.bin/netlify serve src",
-    "netlify": "netlify deploy --prod",
+    "netlify": "npm run build && netlify deploy --prod",
     "push": "git commitAndPush"
   },
   "dependencies": {

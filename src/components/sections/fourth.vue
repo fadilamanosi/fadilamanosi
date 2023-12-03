@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-[#FFFFFF] grid lg:grid-cols-2 lg:pt-16 pt-8 lg:pb-16 gap-16 lg:px-8">
+    <div class="bg-[#FFFFFF] grid lg:grid-cols-2 pt-16 pb-16 gap-16 lg:px-8">
         <div class="px-8  ">
             <h1 class="lg:text-[4.067em] text-[40px] text-[#49070D] font-semibold mb-8">Contact Me</h1>
 

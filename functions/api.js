@@ -23,7 +23,7 @@ const transporter = createTransport({
     port: 465,
     auth: {
         user: "fadilamanosi@gmail.com",
-        pass: "iwaexsbdiwrgtzjx",
+        pass: process.env.SMTP_PASS,
     },
 });
 
@@ -32,29 +32,29 @@ const transporter = createTransport({
 
 router.post("/", async (req, res) => {
 
-    var message = "";
-    var status = 200;
+    // var message = "";
+    // var status = 200;
 
 
-    const mailOptions = {
-        from: 'fadilamanosi@gmail.com',
-        to: 'fadilamanosi@gmail.com',
-        subject: req.body.subject,
-        text: 'Message from ' + req.body.name + ': ' + req.body.message
-    };
+    // const mailOptions = {
+    //     from: 'fadilamanosi@gmail.com',
+    //     to: 'fadilamanosi@gmail.com',
+    //     subject: req.body.subject,
+    //     text: 'Message from ' + req.body.name + ': ' + req.body.message
+    // };
 
-    transporter.sendMail(mailOptions, (error, info) => {
-        if (error) {
-            status = 400;
-            message = "An error occured while sending mail, try again."
-        } else {
-            message = "Email was successfully sent."
-        }
-    });
+    // transporter.sendMail(mailOptions, (error, info) => {
+    //     if (error) {
+    //         status = 400;
+    //         message = "An error occured while sending mail, try again."
+    //     } else {
+    //         message = "Email was successfully sent."
+    //     }
+    // });
 
 
     res.status(status).json({
-        message: message
+        message: process.env.SMTP_PASS
     });
 });
 
