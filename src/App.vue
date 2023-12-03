@@ -1,7 +1,7 @@
 
 
 <template>
-  <div class="h-screen flex relative">
+  <div class="h-screen flex lg:flex-wrap flex-col relative">
     <LeftBar :counter="counter"></LeftBar>
     <div class="bg-[#F8F0FF]   lg:w-[80%] w-full   overflow-y-auto body">
       <first class="block"></first>
@@ -22,7 +22,7 @@ import $ from 'jquery';
 import LeftBar from '@/components/sections/left-bar.vue';
 import first from '@/components/sections/first.vue';
 import Second from '@/components/sections/second.vue';
-import Third from './components/sections/third.vue';
+import Third from '@/components/sections/third.vue';
 import Fourth from '@/components/sections/fourth.vue';
 
 

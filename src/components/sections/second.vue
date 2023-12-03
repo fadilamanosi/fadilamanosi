@@ -1,6 +1,6 @@
 <template>
     <div class="px-8 bg-[#FFFFFF]  ">
-        <div class="flex flex-col gap-10 h-full  lg:py-16 py-4">
+        <div class="flex flex-col gap-10 h-full  lg:py-16 py-8">
             <div class="text-[#48080D]  text-start">
                 <h1 class=" lg:text-[4.067em] text-[50px] font-bold ">My Skills</h1>
                 <span>

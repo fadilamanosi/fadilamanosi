@@ -2,11 +2,10 @@
     <div class="lg:px-11 px-8 bg-[#F5E9E6] lg:py-16 py-8 ">
 
         <div class="text-[#48080D]  text-start mb-10">
-            <h1 class=" lg:text-[4.067em] text-[50px] font-bold ">Experience</h1>
+            <h1 class=" lg:text-[4.067em] text-[40px] font-bold ">Experience</h1>
         </div>
 
-        <div class="grid md:grid-cols-2 gap-24">
-
+        <div class="grid md:grid-cols-2 lg:gap-24">
 
             <ol class="relative border-s-2 border-gray-900 grid items-center">
                 <li class="mb-10 ms-8">

@@ -1,10 +1,10 @@
 <template>
-    <div class=" bg-[#bb7c65]  w-[20%]  px-4 hidden lg:grid  relative grid-rows-12 gap-4 pt-8   ">
+    <div class=" bg-[#bb7c65]  lg:w-[20%]  lg:h-full  px-4  grid  relative grid-rows-12 gap-4 lg:pt-8  pt-4 lg:pb-0 pb-4 ">
 
         <div class=" row-span-1 ">
             <hambuger @click="sidebar = true"  :class="'rotate '  + (sidebar ? 'roll' : '')"></hambuger>
         </div>
-        <div class="relative row-span-1 ">
+        <div class="relative row-span-1 hidden lg:block">
             <div class="flex items-center gap-8 ">
                 <b class="w-fit" v-text="'0' + (counter.current + 1)"></b>
                 <div class="w-[50%] flex gap-3 justify-center">
@@ -15,7 +15,7 @@
                 <b class="w-fit text-white" v-text="'0' + counter.total"></b>
             </div>
         </div>
-        <div class=" font-medium text-[100%] row-span-10 h-full ">
+        <div class=" font-medium text-[100%] row-span-10 h-full hidden lg:block ">
             <div class="grid gap-8 ">
                 <div class="grid">
                     <label class="text-[#49070D] tracking-[0.4rem]">NAME</label>
@@ -40,7 +40,7 @@
         </div>
 
 
-        <img src="/images/logo.svg" class="row-span-6 items-start ">
+        <img src="/images/logo.svg" class="row-span-6 items-start  hidden lg:block">
 
 
         <Transition name="slide-fade">
