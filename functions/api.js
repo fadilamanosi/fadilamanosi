@@ -32,29 +32,27 @@ const transporter = createTransport({
 
 router.post("/", async (req, res) => {
 
-    // var message = "";
-    // var status = 200;
+    var message = "";
+    var status = 200;
 
+    const mailOptions = {
+        from: 'fadilamanosi@gmail.com',
+        to: 'fadilamanosi@gmail.com',
+        subject: req.body.subject,
+        html: 'Message from <br> name: ' + req.body.name + '<br> Email: ' + req.body.email + '. <br> <br>' + req.body.message
+    };
 
-    // const mailOptions = {
-    //     from: 'fadilamanosi@gmail.com',
-    //     to: 'fadilamanosi@gmail.com',
-    //     subject: req.body.subject,
-    //     text: 'Message from ' + req.body.name + ': ' + req.body.message
-    // };
-
-    // transporter.sendMail(mailOptions, (error, info) => {
-    //     if (error) {
-    //         status = 400;
-    //         message = "An error occured while sending mail, try again."
-    //     } else {
-    //         message = "Email was successfully sent."
-    //     }
-    // });
+    try {
+        const mail = await transporter.sendMail(mailOptions);
+        message = "Email was successfully sent."
+    } catch (error) {
+        status = 400
+        message = "An error occured while sending mail, try again."
+    }
 
 
     res.status(status).json({
-        message: process.env.SMTP_PASS
+        message:message
     });
 });
 

@@ -64,7 +64,7 @@
 
                     </p>
                 </li>
-                <li class="ms-8">
+                <li class="mb-10 ms-8">
                     <div class="absolute w-8 h-8 bg-[#F5E9E6]  rounded-full mt-1.5  -left-4  border-2 border-white ">
                     </div>
                     <time class="mb-1 text-sm font-normal leading-none text-gray-400 ">Laravel/VueJs developer</time>
