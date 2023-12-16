@@ -29,7 +29,7 @@
                             <a href="https://twitter.com/Fadilamanosi">
                                 <x-icon></x-icon>
                             </a>
-                            <a href="linkedin.com/in/fadil-amanosi-791521195">
+                            <a href="https://linkedin.com/in/fadil-amanosi-791521195">
                                 <linkedin></linkedin>
                             </a>
                             <a href="https://github.com/fadilamanosi">
