@@ -15,6 +15,6 @@ I'm a Software Developer. I'm passionate about technologies and love to learn ne
 
 - 📫 How to reach me **fadilamanosi@gmail.com**
 
-- 📄 Know about my experiences <a href="https://fadilamanosi.github.io/" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://fadilamanosi.com/" target="blank">Resume</a>
 <br/>
 
