@@ -6,7 +6,7 @@ I'm a Software Developer. I'm passionate about technologies and love to learn ne
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Web3
+- 🌱 Love listening, collaborating and learning.
 
 - 💬 Ask me about **Vuejs & Laravel**
 
