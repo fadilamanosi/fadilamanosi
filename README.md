@@ -2,9 +2,6 @@
 
 I'm a Software Developer. I'm passionate about technologies and love to learn new things.
 
-
-- 🔭 I’m currently working in <a href="https://koolkatcre8.com/" target="blank">Koolkatcre8</a>
-
 - 🌱 I’m currently Working on API Devleopment
 
 - 🤝 I’m available for freelancing.
