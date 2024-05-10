@@ -9,7 +9,7 @@
             </h1>
 
             <p class=" leading-loose">
-                I’m a passionate Full-Stack Web Developer with over 5 years of experience specializing in creating dynamic
+                I’m a passionate Full-Stack Web Developer with over 6 years of experience specializing in creating dynamic
                 and user-friendly web applications. I have a strong background in PHP, Laravel, and VueJs, and have worked
                 on various projects from innovative startups to large-scale enterprise solutions.
             </p>

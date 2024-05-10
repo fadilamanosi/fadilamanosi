@@ -65,6 +65,24 @@
                     <div
                         class="  flex flex-col justify-between cursor-pointer overflow-hidden gap-[5em]  z-50 top-0 h-full p-4">
                         <div class="bg-[#F5E9E6] w-fit p-4">
+                            <h1 :class="'rotate font-bold ' + (transition.four ? 'roll' : '')"> 04</h1>
+                        </div>
+
+                        <div class="grid gap-8">
+                            <h1 class="text-[1.6em] text-white font-medium">Ionic</h1>
+                            <div @mouseenter="hoverIn('four')" @mouseout="hoverOut('four')"
+                                class="absolute top-0 bg-transparent w-full h-full right-0"></div>
+
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <div class="relative bg-[#48080D]  overflow-hidden ">
+                    <div
+                        class="  flex flex-col justify-between cursor-pointer overflow-hidden gap-[5em]  z-50 top-0 h-full p-4">
+                        <div class="bg-[#F5E9E6] w-fit p-4">
                             <h1 :class="'rotate font-bold ' + (transition.four ? 'roll' : '')"> 05</h1>
                         </div>
 
