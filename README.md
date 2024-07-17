@@ -2,7 +2,7 @@
 
 I'm a Software Developer. I'm passionate about technologies and love to learn new things.
 
-- 🌱 I’m currently Working on API Devleopment
+- 🌱 I’m a fullstack web developer
 
 - 🤝 I’m available for freelancing.
 
