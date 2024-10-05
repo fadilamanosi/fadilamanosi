@@ -29,7 +29,7 @@
 
                 <div class="grid">
                     <label class="text-[#49070D] tracking-[0.4rem]">EMAIL</label>
-                    <a href="mailto:fadilamanosi@gmail.com" class="text-white">fadilamanosi@gmail.com</a>
+                    <a href="mailto:fadilhansy@gmail.com" class="text-white">fadilhansy@gmail.com</a>
                 </div>
 
                 <div class="grid">
