@@ -8,7 +8,7 @@ I'm a Software Developer. I'm passionate about technologies and love to learn ne
 
 - 🌱 Love listening, collaborating and learning.
 
-- 💬 Ask me about **Vuejs & Laravel**
+- 💬 Ask me about **Vuejs, Laravel & Nodejs**
 
 - 📫 How to reach me **fadilamanosi@gmail.com**
 
